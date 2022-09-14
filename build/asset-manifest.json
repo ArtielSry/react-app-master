@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.7058144c.css",
+    "main.js": "/react-app/static/js/main.57ac474d.js",
+    "static/media/blog03.png": "/react-app/static/media/blog03.7fb3c66c5ddadc717d8d.png",
+    "static/media/blog02.png": "/react-app/static/media/blog02.b681afb01b1c01693a5b.png",
+    "static/media/blog01.png": "/react-app/static/media/blog01.40c8dac0d1c5b9a4d881.png",
+    "static/media/blog04.png": "/react-app/static/media/blog04.6cdc73db9a7523b4e7d7.png",
+    "static/media/ai.png": "/react-app/static/media/ai.5449e674aac5b03987cd.png",
+    "static/media/blog05.png": "/react-app/static/media/blog05.ff4cff522d555dfcd016.png",
+    "static/media/imgPos.png": "/react-app/static/media/imgPos.0d3f4e3c0a6f6cb403a0.png",
+    "static/media/logo.png": "/react-app/static/media/logo.adf18f79ce700e926799.png",
+    "index.html": "/react-app/index.html",
+    "main.7058144c.css.map": "/react-app/static/css/main.7058144c.css.map",
+    "main.57ac474d.js.map": "/react-app/static/js/main.57ac474d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7058144c.css",
+    "static/js/main.57ac474d.js"
+  ]
+}

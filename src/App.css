@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(0, 0, 0);
+    background: #1f1f1f;
+}
+
+/*.gradiente__bg { 
+      background página, puedo hacerlo con CSS gradient en google 
+
+.gradiente__text {
+}*/
+span { 
+    -webkit-text-stroke: 1px #CDF72B;
+    color: transparent;
+}
+
+.section__padding {
+    padding: 4rem 6rem;
+}
+.section__margin {
+    margin: 4rem 6rem;
+}
+
+@media screen and (max-width: 700px) {
+    .section__padding {
+        padding: 4rem;
+    }
+    .section__margin {
+        margin: 4rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .section__padding {
+        padding: 4rem 2rem;
+    }
+    .section__margin {
+        margin: 4rem 2rem;
+    }
+}
